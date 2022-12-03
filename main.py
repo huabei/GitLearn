@@ -6,3 +6,4 @@ if __name__ == "__main__":
     subprocess.call([r"D:\Program Files\SmartGit\git\bin\git.exe", 'commit', '-a', '-m', '"today update"'])    
     subprocess.call([r'D:\Program Files\SmartGit\git\bin\git.exe', 'push'])
     
+    
